@@ -1,15 +1,15 @@
-# Substack「海外note」3アカウント運用プレイブック — 月50万円を"固く"積み上げる
+# Substack（海外版note）3アカウント運用運用マニュアル — 月50万円を"固く"積み上げる
 
 > ステータス: ドラフト v1（2026-09-27）
-> 注意: 参照元のXポスト（https://x.com/rimuruafi/status/2091948443166199826）は作業環境のネットワーク制限で取得できませんでした。
-> ポスト内のプロンプト本文を貼ってもらえれば、「§0 元ポストのプロンプト」に原文のまま収録し、§5 のプロンプト群と統合します。
+> 注意: 元になるXの投稿（https://x.com/rimuruafi/status/2091948443166199826）は作業環境のネットワーク制限で取得できませんでした。
+> 投稿の中のプロンプト本文を貼ってもらえれば、「§0 元ポストのプロンプト」に原文のまま収録し、§5 のプロンプト群と統合します。
 
 ---
 
-## §0 元ポストのプロンプト（未取得・貼り付け待ち）
+## §0 元の投稿のプロンプト（まだ取得できていない・貼り付け待ち）
 
 ```
-（ここにポストのプロンプト原文が入る）
+（ここに投稿のプロンプト原文が入る）
 ```
 
 ---
@@ -21,8 +21,8 @@
 | 項目 | 値 |
 |---|---|
 | 目標手取り | 50万円/月 ≒ **$3,400/月** |
-| Substack手数料 | 売上の10% |
-| Stripe決済手数料＋海外カード・通貨換算 | 約3〜5% |
+| Substackの手数料 | 売上の10% |
+| Stripe（決済サービス）の手数料＋海外カード・通貨換算 | 約3〜5% |
 | 実質手残り率 | **約85%** |
 | 必要な総売上 | **約$4,000/月（3アカウント合計）** |
 
@@ -54,13 +54,13 @@
 - 注意: 投資助言に当たらない書き方にし、免責文を必ず入れる（個別推奨・売買指示はしない）
 
 ### アカウントB：集客エンジン（中単価・大衆寄り）
-- 例: **Japan culture/business deep-dive**（アニメ・ゲーム・コンビニ・職人産業などの"裏側"のビジネス分析）
+- 例: **日本の文化・ビジネスの深掘り**（アニメ・ゲーム・コンビニ・職人産業などの"裏側"のビジネス分析）
 - 価格: $7〜10/月
-- 狙い: 無料読者を最も伸ばす。Substack Notes・レコメンド網の起点になり、A・Cへ送客する
+- 狙い: 無料読者を最も伸ばす。Substack Notes・おすすめ機能の起点になり、A・Cへ送客する
 
 ### アカウントC：実用・ノウハウ（中〜高単価・プロダクト併売）
-- 例: **AI×特定職種のワークフロー**（例: 一人コンサル・翻訳者・EC運営者向けのAI業務設計）
-- 価格: $10〜15/月 ＋ テンプレート／プロンプト集を単品販売（Gumroad等）
+- 例: **AI×特定の職種の仕事のやり方**（例: 一人コンサル・翻訳者・EC運営者向けのAI業務設計）
+- 価格: $10〜15/月 ＋ テンプレート／プロンプト集を単品販売（Gumroadなどの販売サイト）
 - 狙い: 購読以外の収益源を持ち、単月の解約に左右されにくくする
 
 ### 収益ミックス（18ヶ月目の目標イメージ）
@@ -96,15 +96,15 @@
 - 有料と無料の比率は、最初の3ヶ月は 無料7:有料3 → 読者が1,000人を超えたら 5:5
 
 ### 成長の打ち手（効果の大きい順）
-1. **Substack Notes**: 毎日投稿。単なる宣伝より、図解や一次データの断片のほうが伸びる
-2. **Recommendations（相互推薦）**: 同規模の書き手と相互推薦する。A・B・C 同士も推薦し合う
+1. **Substack Notes（Substack内の短文投稿機能）**: 毎日投稿。単なる宣伝より、図解や一次データの断片のほうが伸びる
+2. **おすすめ機能（Recommendations・相互推薦）**: 同規模の書き手と相互推薦する。A・B・C 同士も推薦し合う
 3. **ゲスト寄稿・コラボ**: 月1本、他の書き手の記事に寄稿する
-4. **Reddit / X / LinkedIn への要約投稿**: 各コミュニティのルールを守り、スパムにしない
+4. **Reddit・X・LinkedIn に要約を投稿**: 各コミュニティのルールを守り、スパムにしない
 5. **ウェルカムメール＋無料の目玉コンテンツ**: 登録直後に最高の記事を届ける（§5-P7）
 
 ### 解約を防ぐ（"固く"の本体）
 - **年額プランを推す**（例: 月額の約17%引き）。年額の割合が高いほど月次の売上が安定する
-- 「Founding member」枠（年額の2〜3倍）を用意する。熱心な読者はここを選ぶ
+- 「Founding member（応援会員）」枠（年額の2〜3倍）を用意する。熱心な読者はここを選ぶ
 - 有料読者限定の定期企画（月次レポート、Q&A、データ表）で"習慣"を作る
 - 配信を絶対に止めない。書き溜め（バッファ）を常に4本持つ
 
@@ -114,10 +114,10 @@
 
 | 週 | マイルストーン |
 |---|---|
-| 1〜2 | ニッチ検証（§5-P1）。3アカウントのテーマ・価格・読者像を決める。Stripe連携・税務の準備 |
+| 1〜2 | ジャンル選び（§5-P1）。3アカウントのテーマ・価格・読者像を決める。Stripe連携・税務の準備 |
 | 3〜4 | 3アカウント開設。各アカウントに無料記事を5本ずつ公開してから宣伝を始める |
 | 5〜8 | 無料配信と Notes に集中。**有料化はまだしない**。目標: 各300〜500人 |
-| 9〜12 | 有料プランを開始（最初は B と C。A は信頼ができてから）。Founding member 募集 |
+| 9〜12 | 有料プランを開始（最初は B と C。A は信頼ができてから）。応援会員（Founding member）の募集 |
 | 13〜16 | 相互推薦とコラボを本格化。C の単品商品を1つ出す |
 | 17〜20 | 数字を見て、伸びないアカウントのテーマを修正または入れ替える |
 | 21〜24 | 目標: 無料合計5,000人／有料合計150〜250人／**月15〜25万円**。ここから50万円へ伸ばす |
@@ -128,90 +128,96 @@
 
 ## §5 プロンプト集（＋α）
 
-どの生成AIでも使える形にしてある。`{ }` の部分を埋めて使う。
+ChatGPT・Claude など、どの生成AIにもそのまま貼って使えます。`{ }` の部分を自分の内容に置き換えてください。
+指示は日本語ですが、読者向けの文章は英語で出すように書いてあります。
 
-### P1. ニッチ検証
+### P1. ジャンル選び（3アカウントのテーマを決める）
 ```
-You are a Substack growth strategist. I am a Japanese native speaker who can read Japanese primary sources.
-Evaluate these 5 newsletter niche ideas for English-speaking paying readers: {ideas}.
-For each niche, give:
-1) Who pays and why (job title, pain, budget)
-2) The top 5 existing Substack/newsletter competitors and their price
-3) My information edge from Japanese sources (be specific)
-4) A realistic price point and the paid-subscriber count needed for $1,350/month
-5) A score from 1 to 10 for demand, competition, and my edge
-Then pick the best 3 as a portfolio: one high-ARPU niche, one audience-growth niche, one practical/product niche.
+あなたはSubstackで読者を増やす専門家です。私は日本語の一次情報を読める日本人です。
+英語圏で「お金を払ってでも読みたい」と思われるニュースレターのテーマ候補を5つ挙げます：{候補}
+それぞれについて次を答えてください。
+1) 誰が、なぜお金を払うのか（職業・悩み・予算）
+2) 同じテーマの既存のSubstack・ニュースレター上位5つと、その価格
+3) 日本語の情報源を使える私ならではの強み（具体的に）
+4) 現実的な月額料金と、月$1,350を稼ぐのに必要な有料読者数
+5) 需要・競合の少なさ・私の強みを、それぞれ10点満点で採点
+最後に、「高単価で稼ぐ役」「読者を集める役」「実用ノウハウ＋商品を売る役」の3つを1本ずつ選んでください。
+回答は日本語でお願いします。
 ```
 
-### P2. 週次ネタ出し（日本語ソース → 英語圏向けの切り口）
+### P2. 毎週のネタ出し（日本のニュース → 英語圏向けの切り口）
 ```
-Here are this week's Japanese sources (headlines, excerpts, URLs): {sources}.
-For my newsletter "{name}" (audience: {audience}), propose 10 story angles.
-For each angle: a working title, why an English reader would care, what is NOT yet covered in English media,
-and whether it should be a free or a paid post. Rank them by expected reader value.
+今週集めた日本語の情報です（見出し・抜粋・URL）：{情報}
+私のニュースレター「{名前}」（読者：{読者像}）向けに、記事の切り口を10個出してください。
+各切り口について、仮タイトル（英語）、英語圏の読者が興味を持つ理由、英語メディアでまだ報じられていない点、
+無料記事と有料記事のどちらにすべきかを答えてください。読者にとっての価値が高い順に並べてください。
+説明は日本語で、タイトルだけ英語でお願いします。
 ```
 
 ### P3. 記事の構成づくり
 ```
-Write a detailed outline for a {free/paid} Substack post titled "{title}" for {audience}.
-Include: a hook in the first 2 sentences, 4-6 sections, one original chart/table idea,
-where to place the paywall (for paid posts: give ~30% of the value before it),
-and a closing call-to-action. Target length: {words} words.
+「{タイトル}」という{無料／有料}記事の詳しい構成案を作ってください。読者は{読者像}です。
+入れてほしいもの：最初の2文で引き込む書き出し、4〜6個の見出し、独自の図や表のアイデア1つ、
+有料記事の場合は有料部分の区切り位置（価値の3割くらいは無料部分で見せる）、最後の行動の呼びかけ。
+目標の長さ：英語で{語数}語。構成案の説明は日本語で、見出しは英語で書いてください。
 ```
 
-### P4. 日本語の下書き → 英語ネイティブ向けに書き直し（翻訳ではなく書き直し）
+### P4. 日本語の下書き → 英語の記事に書き直す（直訳ではなく書き直し）
 ```
-Rewrite the following Japanese draft as an original English newsletter post for {audience}.
-Do not translate literally. Explain Japan-specific context briefly, use short paragraphs,
-a confident but not hype-y voice, concrete numbers, and US/UK-familiar analogies.
-Keep all facts exactly as given; mark anything uncertain with [VERIFY].
-Voice sample for reference: {paste 2-3 paragraphs of your past writing}
-Draft: {Japanese text}
-```
-
-### P5. タイトル・件名のA/B案
-```
-Give 10 email subject lines for this post, in 5 styles (curiosity, number, contrarian, how-to, insider).
-Each under 60 characters. Then pick the top 2 for an A/B test and explain why.
-Post summary: {summary}
+次の日本語の下書きを、{読者像}向けの英語のニュースレター記事として書き直してください。
+直訳はしないでください。日本特有の事情は短く補足し、段落は短く、自信はあるけれど大げさでない口調で、
+具体的な数字と、英米の読者になじみのある例えを使ってください。
+事実は下書きのとおりに保ち、不確かな部分には [VERIFY] と印をつけてください。
+参考にする私の文体：{過去の文章を2〜3段落}
+下書き：{日本語の文章}
+最後に、書き直した内容の要点を日本語で3行にまとめてください。
 ```
 
-### P6. Substack Notes を量産（1記事 → 15本）
+### P5. メールの件名をA/Bテスト用に作る
 ```
-Turn this post into 15 Substack Notes. Mix: 5 single-insight notes, 3 data points,
-3 short opinions, 2 questions to the audience, 2 teasers linking to the post.
-Each under 280 characters, no hashtags, no emojis at the start. Post: {text}
+この記事のメール件名を英語で10個作ってください。
+5つの型（好奇心をあおる／数字を入れる／常識と逆のことを言う／やり方を教える／内部情報っぽく）で2つずつ。
+それぞれ60文字以内。そのうえで、A/Bテストに使う上位2つを選び、選んだ理由を日本語で説明してください。
+記事の要約：{要約}
+```
+
+### P6. Substack Notes（短い投稿）を1記事から15本作る
+```
+この記事をもとに、Substack Notes用の短い投稿を英語で15本作ってください。
+内訳：気づきを1つだけ伝える投稿5本、データを1つ見せる投稿3本、短い意見3本、読者への質問2本、記事へ誘導する予告2本。
+各280文字以内、ハッシュタグなし、絵文字で始めない。各投稿の下に日本語訳を1行つけてください。
+記事：{本文}
 ```
 
 ### P7. ウェルカムメールと有料プランの案内文
 ```
-Write (1) a welcome email for new free subscribers of "{name}" that delivers the single most useful
-resource immediately and sets expectations (frequency, what's free vs paid), and
-(2) a paid-upgrade page: who it's for, what they get each month, annual vs monthly vs founding member,
-and 3 FAQ answers. Tone: honest, no fake scarcity.
+ニュースレター「{名前}」について、次の2つを英語で書いてください。
+(1) 無料登録した人へのウェルカムメール：いちばん役に立つ資料をすぐ渡し、配信頻度と無料／有料の違いを伝える
+(2) 有料プランの案内ページ：誰向けか、毎月何が届くか、月額・年額・応援プラン（Founding member）の違い、よくある質問3つ
+口調は正直に。「残りわずか」のような偽の煽りは使わないでください。最後に日本語訳もつけてください。
 ```
 
 ### P8. 単品商品の企画（アカウントC向け）
 ```
-Based on these top-performing posts and reader questions: {data},
-propose 3 digital products (template, guide, prompt pack) priced $19-$79.
-For each: title, contents list, who buys it, and how to mention it inside the newsletter without being pushy.
+反応の良かった記事と、読者からの質問です：{データ}
+これをもとに、$19〜$79で売るデジタル商品（テンプレート、ガイド、プロンプト集など）を3つ提案してください。
+それぞれ、商品名（英語）、中身の一覧、誰が買うか、ニュースレターの中で押し売りにならずに紹介する方法を日本語で答えてください。
 ```
 
-### P9. 月次の振り返り
+### P9. 毎月の振り返り
 ```
-Here are this month's stats for my 3 Substack publications: {subscribers, open rate, free→paid conversion,
-churn, top posts, traffic sources}. Diagnose each publication:
-what's working, the single biggest bottleneck, and 3 experiments for next month.
-Also tell me whether any publication should be pivoted per this rule:
-<300 free subscribers or <1% paid conversion after 12 weeks.
+3つのSubstackの今月の数字です：{読者数、開封率、無料→有料の転換率、解約率、人気記事、流入元}
+アカウントごとに、うまくいっていること、いちばんの詰まりどころ、来月試すこと3つを日本語で答えてください。
+また、次のルールに当てはまるアカウントはテーマ変更を検討すべきか判断してください：
+「開始から12週たっても無料読者300人未満、または有料転換率1%未満」
 ```
 
-### P10. ファクトチェック（配信前に必ず実行）
+### P10. 配信前の事実確認（毎回必ず）
 ```
-Review this post for factual claims. List every claim with a number, date, name, or quote,
-and for each say: likely correct / needs a source / likely wrong, and what to check.
-Flag anything that could be read as financial or legal advice. Post: {text}
+この記事に含まれる事実（数字・日付・人名・引用）をすべて一覧にしてください。
+それぞれ「たぶん正しい／出典が必要／たぶん間違い」のどれかと、何を確認すればよいかを日本語で答えてください。
+投資・法律の助言と受け取られそうな表現があれば指摘してください。
+記事：{本文}
 ```
 
 ---
@@ -229,6 +235,6 @@ Flag anything that could be read as financial or legal advice. Post: {text}
 
 ## 次のアクション
 
-1. 元ポストのプロンプト原文をこのファイルの §0 に貼る（貼ってもらえれば統合します）
+1. 元の投稿のプロンプト原文をこのファイルの §0 に貼る（貼ってもらえれば統合します）
 2. P1 を使って3アカウントのニッチを確定する
 3. §4 の第1〜2週のタスクに着手する
